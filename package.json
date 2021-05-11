@@ -1,0 +1,23 @@
+{
+  "name": "realtime-sharing",
+  "version": "1.0.0",
+  "description": "Sharing files, images, audio and videos with real time data streaming.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEET0291/realtime-sharing.git"
+  },
+  "author": "Jitendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEET0291/realtime-sharing/issues"
+  },
+  "homepage": "https://github.com/JEET0291/realtime-sharing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.2"
+  }
+}
